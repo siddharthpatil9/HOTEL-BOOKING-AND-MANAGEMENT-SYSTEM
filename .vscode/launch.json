@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PhegonHotelApplication<PhegonHotel>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.phegondev.PhegonHotel.PhegonHotelApplication",
+            "projectName": "PhegonHotel",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
